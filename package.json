@@ -1,0 +1,18 @@
+{
+  "name": "pizzabot",
+  "version": "1.0.0",
+  "description": "Slice code challenge",
+  "main": "bin/pizzabot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "????",
+  "license": "ISC",
+  "bin": {
+    "pizzabot": "./bin/pizzabot.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^16.2.0"
+  }
+}
